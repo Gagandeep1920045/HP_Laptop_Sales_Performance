@@ -24,6 +24,7 @@ Slicers
 
 📸 Dashboard Preview
 --
+![Alt text](https://github.com/Gagandeep1920045/HP_Laptop_Sales_Performance/blob/main/Hp_Sales_Dashboard.png)
 
 📂 Files
 --
